@@ -1,0 +1,239 @@
+state;postal;city;street;container;note;lon;lat
+Wien;1010;Wien;Stephansplatz 6;2;;16.3740951;48.2087007
+Wien;1020;Wien;Laufbergergasse 12;1;;16.3965660830156;48.21298785
+Wien;1020;Wien;Lassallestraße 5;1;;16.3964368;48.2216116
+Wien;1030;Wien;Hagenmüllergasse 33;1;;16.4051983;48.1973747
+Wien;1050;Wien;Siebenbrunnenfeldgasse 22 - 24;1;;16.35265412211735;48.18183465
+Wien;1060;Wien;Barnabitengasse 14;1;(GRUFT!! Kein öffentlicher Einwurf );16.3534923;48.1989135
+Wien;1070;Wien;Westbahnstraße 17;1;;16.344414;48.201715
+Wien;1090;Wien;Rooseveltplatz;1;;16.3581038;48.2158915
+Wien;1100;Wien;Buchengasse 111 - 113;1;;16.366336580165274;48.1753567
+Wien;1100;Wien;Laaer Berg Straße 222;1;;16.39635418801653;48.1525771
+Wien;1100;Wien;Absberggasse 27;1;;16.3904387;48.1718099
+Wien;1100;Wien;Otto-Probst-Straße 1;1;;16.3537276;48.1560361
+Wien;1100;Wien;Tesarekplatz 1;1;;16.3497344;48.155232
+Wien;1100;Wien;Otto Probst-Straße 5 ident Baron Karl Gasse 7;1;;;
+Wien;1110;Wien;Werkstättenweg 27 - 29;1;;16.4017006;48.1726179
+Wien;1110;Wien;Oriongasse  13;1;;16.435087236961202;48.16796085
+Wien;1110;Wien;Schmidgunstgasse 73;1;;16.470505700050154;48.16074435
+Wien;1110;Wien;Braunhubergasse 18;1;;16.4136365;48.1695814
+Wien;1110;Wien;Dommesgasse 14;1;;16.414226;48.1713587
+Wien;1110;Wien;Kaiser Ebersdorfer Straße 164 - 168;1;;16.4272303;48.167249
+Wien;1110;Wien;Am Hofgartl 1;1;;16.464477;48.1551172
+Wien;1110;Wien;Wopenkastraße 6;1;;16.462264787739237;48.151248800000005
+Wien;1110;Wien;Meidlgasse 19;1;;16.4492992;48.1595195
+Wien;1110;Wien;Dreherstraße 2;1;;16.473796750782554;48.157740700000005
+Wien;1120;Wien;Liebenstraße 31;1;;16.3279246;48.1686245
+Wien;1120;Wien;Ruckergasse 33;1;;16.3269063;48.1788659
+Wien;1120;Wien;Schönbrunnerstraße 295;1;im Hof;16.3216161;48.1833165
+Wien;1120;Wien;Tanbruckgasse 16-22;1;;16.3284297;48.1768785
+Wien;1130;Wien;Frimbergergasse 10;1;;16.2937229;48.1886513
+Wien;1130;Wien;Linienamtsgasse 7;1;;16.2779602;48.1635611
+Wien;1130;Wien;Fasangartengasse 48;1;;16.290242653750425;48.17279795
+Wien;1130;Wien;Kardinal-König-Platz 3;1;;16.28319594291346;48.1778526
+Wien;1130;Wien;Hanschweg 1 bei Karmeliterkloster;1;;;
+Wien;1130;Wien;Auhofstraße 120;1;;16.2738752;48.19054
+Wien;1130;Wien;Blebanngasse/Schrutkagasse Mistplatz;1;;;
+Wien;1130;Wien;Gobergasse 89;1;;16.266902181840873;48.178135850000004
+Wien;1130;Wien;St. Veithgasse 25;2;Haus Don Bosco;16.3794635;48.1979917
+Wien;1130;Wien;Kardinal-Piffl-Gasse 2;1;;16.2615337;48.1633281
+Wien;1130;Wien;Bossigasse 68-70;1;;16.2764349;48.1835794
+Wien;1130;Wien;Thomas-Morus-Gasse 2;1;;16.2809109;48.1723118
+Wien;1130;Wien;Hietzinger Kai 131;1;;16.2885939;48.1905501
+Wien;1140;Wien;Ameisbachzeile 5;1;;16.2920992;48.201426
+Wien;1140;Wien;Hauptstraße 9;2;;16.228686880102835;48.20744815
+Wien;1140;Wien;Edenstraße 21;1;Haus St. Klemens;16.243914610369636;48.21513935
+Wien;1140;Wien;Müller-Guttenbrunn-Straße 35;2;;16.2721867;48.199563
+Wien;1140;Wien;Tinterstraße 27;1;;16.2753101;48.2019729
+Wien;1140;Wien;Lorenz Weiss Gasse 11 - 13;1;;16.270023;48.2003514
+Wien;1140;Wien;Flötzersteig 167;1;;16.2929183;48.2071609
+Wien;1140;Wien;Linzerstraße 422;1;;16.256935308882824;48.202243100000004
+Wien;1140;Wien;Anzbachgasse 89;1;;16.245387390072636;48.2075465
+Wien;1140;Wien;Balsaminenweg;1;;;
+Wien;1140;Wien;Sampogasse 5;1;;16.3099036;48.201597
+Wien;1150;Wien;Camillo-Sitte-Gasse 3;1;;16.3268202;48.2030637
+Wien;1150;Wien;Vogelweidplatz 7;2;;16.3312661;48.2025413
+Wien;1160;Wien;Thalhaimergasse 17-29;1;;16.3197899;48.2081365
+Wien;1160;Wien;Albrechtskreithgasse 19 - 21;1;;16.3166228;48.2204065
+Wien;1160;Wien;Seitenberggasse 45-51;1;;16.3130338;48.2184339
+Wien;1160;Wien;Sandleitengasse 53;2;;16.306106227360054;48.2236213
+Wien;1160;Wien;Mörikeweg 22;1;;16.28942580685638;48.21372065
+Wien;1170;Wien;Alszeile 7;1;;16.3150213;48.2256272
+Wien;1170;Wien;Dornbacherstraße 55;2;;16.2983261;48.2286404
+Wien;1180;Wien;Schafberggasse 2;1;;16.310007922916807;48.24075575
+Wien;1190;Wien;Gallmeyergasse 4;1;;16.3577486;48.2454085
+Wien;1190;Wien;Heiligenstädterstraße 101;2;;16.3617278;48.2470928
+Wien;1190;Wien;Fröschelgasse 18;1;;16.320865301082964;48.25264585
+Wien;1210;Wien;Schererstraße 22;1;;16.4445752;48.2756584
+Wien;1210;Wien;Schwaigergasse 19;1;;16.3931183;48.2585025
+Wien;1210;Wien;Steinheilgasse 3;2;;16.412251100774;48.26312835
+Wien;1210;Wien;Koloniestraße 12;1;;16.39426084988075;48.26648
+Wien;1210;Wien;Brünnerstraße 133;1;;16.407705;48.2763259
+Wien;1210;Wien;Maximilian Reich Weg 1, Ecke Edi Finger Straße 2;1;;;
+Wien;1210;Wien;Lorettoplatz 1;1;;16.386016;48.2696027
+Wien;1210;Wien;Frömmlgasse 31;1;;16.3948993;48.2592566
+Wien;1210;Wien;Blechschmidtgasse 2;1;;16.3785424;48.276091
+Wien;1210;Wien;Iselgasse 1-3/11;1;;16.4566808;48.2815327
+Wien;1210;Wien;Jedlersdorferstraße 282;1;Keynesgasse - Durchgang;16.4129254;48.2931758
+Wien;1210;Wien;Mühlschüttelgasse 37;1;;16.4074595;48.2504528
+Wien;1210;Wien;Satzingerweg 49;1;;16.42238025940021;48.2574816
+Wien;1220;Wien;Schickgasse 6-8;1;;16.4548831;48.2229686
+Wien;1220;Wien;Hagedornweg 6;1;;16.49299005876991;48.23297275
+Wien;1220;Wien;Bergengasse 6;1;;16.4737068;48.2148763
+Wien;1220;Wien;Claretinergasse 1-3;1;;16.4668768;48.2358398
+Wien;1220;Wien;Donaufelder Str. 177a;1;;16.4320341;48.251166
+Wien;1220;Wien;Hyazinthengasse 74;1;;16.4676931;48.2321325
+Wien;1220;Wien;Gartenheimstraße/Fellnerstraße;1;;;
+Wien;1220;Wien;Strasse der Menschenrechte 1;1;Vienna Int. School;16.43108072934644;48.2453044
+Wien;1220;Wien;Klara-Blum-Gasse 4;1;;16.5258429359548;48.2105855
+Wien;1220;Wien;Hammerfestweg/Sandefjordgasse;1;;;
+Wien;1220;Wien;Kapellenweg 40;1;;16.4702547;48.218225
+Wien;1220;Wien;Langobardenstraße/Ecke Sandefjordgasse 2;1;;;
+Wien;1220;Wien;Markomannenstraße 36-38;1;;16.4591255;48.255473
+Wien;1220;Wien;Meißauergasse 2a/1;1;;16.438936;48.248264
+Wien;1220;Wien;Asperner Heldenplatz 9;2;;16.482986276365544;48.218037249999995
+Wien;1220;Wien;Quadenstraße 53;1;;16.481370216060952;48.23822355
+Wien;1220;Wien;Süßenbrunnerstraße 58/Hanfgasse;1;;;
+Wien;1220;Wien;Ullreichgasse 12;1;;16.434134510026368;48.2528308
+Wien;1220;Wien;Auernheimergasse 47;1;;16.522265;48.2032951
+Wien;1220;Wien;Erzherzog Karl Straße 129 b;1;;16.457427;48.2292925
+Wien;1220;Wien;Wagramer Straße 81/2/3;1;;16.434159;48.2428058
+Wien;1230;Wien;Anton-Krieger-Gasse 2-16;1;;16.28169381292904;48.14072605
+Wien;1230;Wien;Anton-Krieger-Gasse 202;1;;16.2554547;48.1454666
+Wien;1230;Wien;Erlaaerplatz 4;1;;16.3084552;48.1479703
+Wien;1230;Wien;Johann-Dunkl-Gasse 9-13;1;;16.3466786;48.1459764
+Wien;1230;Wien;Färbermühlgasse 6;1;;16.28235991382402;48.133717000000004
+Wien;1230;Wien;Pfarre Rodaun, Schreckgasse 19;1;;;
+Wien;1230;Wien;Franz Asenbauer Gasse 51;1;;16.2629051;48.1568352
+Wien;1230;Wien;Ober den Gärten über Podhgasse;1;;;
+Wien;1230;Wien;Endresstraße 59/Rudolf-Zellergasse;2;;16.283129;48.147326
+Wien;1230;Wien;Reklewskigasse 2-10/Eduard-Kittenberg-Gasse;1;;;
+Wien;1230;Wien;Trepetschniggasse 4;1;;16.3044129;48.150440700000004
+Niederösterreich;2020;Hollabrunn;Reucklstraße 1;1;;16.08400296995903;48.560556899999995
+Niederösterreich;2020;Hollabrunn;Kirchenplatz;5;;16.0807996;48.5611328
+Niederösterreich;2051;Zellerndorf;Bahnstraße 244;1;;15.9657025;48.6745354
+Niederösterreich;2070;Retz;Fladnitzerstraße 44-46;1;;15.9412349;48.7709666
+Niederösterreich;2100;Leobendorf;Schmiedgasse 15 bei Feuerwehr;2;;;
+Niederösterreich;2100;Leobendorf;Im Hausholz 8;1;;16.31988049407228;48.3757516
+Niederösterreich;2100;Leobendorf;Pfarrweg 15;1;;16.31723674184444;48.375810900000005
+Niederösterreich;2100;Leobendorf;Dr. Ansorge Straße 1;1;;16.3158186;48.3735404
+Niederösterreich;2100;Leobendorf;Stockerauer Straße Ecke Kreuzsteinerweg;2;;;
+Niederösterreich;2102;Bisamberg;Kaiserallee 23;1;;16.3430579;48.3389346
+Niederösterreich;2103;Langenzersdorf;Krottendorferstraße 50;1;;16.3726861;48.2953205
+Niederösterreich;2103;Langenzersdorf;Alleestraße 75-77 am Parkplatz;2;;;
+Niederösterreich;2103;Langenzersdorf;Friedhofstraße;3;;16.3608445;48.3063638
+Niederösterreich;2103;Langenzersdorf;Alleestraße 111;1;;16.3551328;48.3007091
+Niederösterreich;2103;Langenzersdorf;Schulstraße 50;2;;16.3563853;48.3085213
+Niederösterreich;2104;Spillern;Marienhofstraße 8 bei Sportplatz;1;;;
+Niederösterreich;2104;Spillern;Kirchenplatz;2;;16.2548035;48.377385
+Niederösterreich;2105;Unterrohrbach;Badgasse 21;1;;16.290530957794342;48.38151645
+Niederösterreich;2105;Oberrohrbach;Hofstraße/Heimgasse;1;;;
+Niederösterreich;2105;Oberrohrbach;Leobendorfer Straße/Schaflerhofweg;1;;;
+Niederösterreich;2111;Tresdorf;Obere Hauptstraße/Laaer Straße;1;;;
+Niederösterreich;2113;Wetzleinsdorf;Brunnenweg 7;1;;16.382712;48.4764919
+Niederösterreich;2113;Hipples;Bachstraße 5;1;;;
+Niederösterreich;2114;Weinsteig;Am Graben - bei Feuerwehr;1;;;
+Niederösterreich;2116;Niederleis;Hauptstraße 71;1;;16.3975547;48.5521153
+Niederösterreich;2120;Obersdorf;Kirschenalle/Sportplatz;3;;;
+Niederösterreich;2122;Ulrichskirchen;Florianiplatz 2 bei Feuerwehr;2;;;
+Niederösterreich;2122;Ulrichskirchen;Hofberggasse 1;1;;16.490525501884576;48.4023801
+Niederösterreich;2123;Traunfeld;Bachstraße 2;1;;16.5229367;48.4439656
+Niederösterreich;2124;Niederkreuzstetten;Kirchenplatz 4;1;;16.4798597;48.4805879
+Niederösterreich;2130;Mistelbach;Haydngasse - Parkplatz;1;;16.5733864;48.5639442
+Niederösterreich;2191;Gaweinstal;Kirchenplatz 1;1;;16.5882491;48.4778441
+Niederösterreich;2221;Groß Schweinbarth;Kirchenplatz 1;1;;16.6309593;48.4142717
+Niederösterreich;2230;Gänserndorf;Kirchenplatz 1;1;;16.720090335457407;48.34177985
+Niederösterreich;2231;Strasshof;Pestalozzistraße 62 - Kirche;1;;;
+Niederösterreich;2231;Strasshof;Hauptstraße Silberwald 400 - Pfarrheim;1;;;
+Niederösterreich;2320;Schwechat;Zirkelweg 3;1;;16.47640619171453;48.130891899999995
+Niederösterreich;2334;Vösendorf;SCS  Eingang 4 Innen beim Service Corner;1;;;
+Niederösterreich;2326;Maria Lanzendorf;Obere Hauptstraße 37;3;;16.432985;48.1040064
+Niederösterreich;2326;Maria Lanzendorf;Hauptstraße 4;1;;16.42468232310606;48.1008689
+Niederösterreich;2340;Mödling;Mölkergasse 7;1;;16.29048669887391;48.0852507
+Niederösterreich;2340;Mödling;Ungargasse 5;1;;16.3023698;48.088916
+Niederösterreich;2340;Maria Enzersdorf;Gabrielerstraße 171 - bei Kirche und im Hof;1;;;
+Niederösterreich;2353;Neu Guntramsdorf;Dr. Karl Renner Straße 19;1;;;
+Niederösterreich;2361;Laxenburg;Schlossplatz 5 - im Hof bei Kirche;1;;;
+Niederösterreich;2380;Perchtoldsdorf;Sebastian-Kneipp-Gasse 11;1;;16.280700796408155;48.1259192
+Niederösterreich;2380;Perchtoldsdorf;Marktplatz 14;1;;16.2652354;48.1187893
+Niederösterreich;2384;Breitenfurt;Bonifaziusgasse 2 - bei Kirche;1;;;
+Niederösterreich;2384;Breitenfurt;Hauptstraße 128;2;;16.208641341946603;48.13682205
+Niederösterreich;2412;Wolfsthal;Hauptstraße 36;1;;17.0053564;48.1371869
+Niederösterreich;2440;Gramatneusiedl;Oberortsstraße 1;1;;16.4856717;48.0275835
+Niederösterreich;2454;Trautmannsdorf;Hauptstraße 45a;1;;16.641889458606293;48.0233951
+Niederösterreich;2460;Bruck an der Leitha;Kochgasse 6;2;;16.7776215;48.02651
+Niederösterreich;2514;Traiskirchen;Glöckelstraße 24;4;;16.283005177471594;48.015548800000005
+Niederösterreich;3001;Mauerbach;Mistplatz Kutscherstall Einfahrt Bauhof;1;;;
+Niederösterreich;3001;Mauerbach;Hauptstraße/Steinbachstraße;3;;;
+Niederösterreich;3003;Gablitz;Hochbuchstraße 18;2;;16.158023681303494;48.22356455
+Niederösterreich;3003;Gablitz;Linzerstraße 77;1;;16.157921510183833;48.22656215000001
+Niederösterreich;3003;Gablitz;Hauersteigstraße 51;1;;16.141480610768703;48.22418625
+Niederösterreich;3003;Gablitz;Kirchenplatz 2;1;;;
+Niederösterreich;3003;Gablitz;Ferdinand-Ebner-Gasse 6;1;;16.15271606444194;48.2286034
+Niederösterreich;3003;Gablitz;Linzer Straße 165 b;1;;16.161919;48.2227942
+Niederösterreich;3003;Gablitz;Linzer Straße bei Miterauenstraße;1;;;
+Niederösterreich;3011;Untertullnerbach;Irenental 1;2;;16.1164686;48.1986128
+Niederösterreich;3012;Wolfsgraben;Hauptstraße 27;2;;16.122354038285714;48.1587985
+Niederösterreich;3021;Pressbaum;Hauptstraße 75;2;;16.07760867193037;48.17928485
+Niederösterreich;3400;Klosterneuburg;Tullnerstraße 5, Scheiblingstein;1;;;
+Niederösterreich;3400;Klosterneuburg;Kirchenplatz 1;1;;16.274226567174303;48.3084274
+Niederösterreich;3400;Klosterneuburg;Hauptstraße 12;1;;16.30799164332128;48.2904211
+Niederösterreich;3400;Klosterneuburg;Sachsengasse 2;3;;16.3300821;48.2934883
+Niederösterreich;3400;Klosterneuburg;Stiftsplatz 5;1;;;
+Niederösterreich;3400;Klosterneuburg;Brandmayerstraße 50;1;;16.322228921651984;48.292359399999995
+Niederösterreich;3420;Kritzendorf;St. Vitus Platz;2;;16.3026966;48.3276847
+Niederösterreich;3421;Höflein;Schulgasse 5;1;;16.2746429;48.3496512
+Niederösterreich;3464;Hausleiten;Kirchenstraße 41;2;;16.0955442;48.3968331
+Niederösterreich;3701;Großweikersdorf;Schmidastraße 2;1;;15.9808276;48.4693879
+Niederösterreich;3720;Ravelsbach;Parkweg;3;;15.8487573;48.5525622
+Niederösterreich;2120;Wolkersdorf;Withalmstraße 4;3;;16.5230684;48.3807886
+Niederösterreich;2451;Hof/Leithageb.;Hauptstrasse 7, neben Pfarrhof;1;;;
+Niederösterreich;2451;Au / Leithage.;Hauptstrasse, vor der Kirche;1;;;
+Niederösterreich;2483;Weigelsdorf;Friedhof;1;;16.406365;47.9457596
+Niederösterreich;2483;Ebreichsdorf;Friedhof;1;;16.406365;47.9457596
+Niederösterreich;2492;Eggendorf;Kirchengasse 1, Kirche;1;;;
+Niederösterreich;2492;Eggendorf;Maria Theresiensiedlung, Kirche;1;;;
+Niederösterreich;2500;Sooss;Weingartenstraße;1;;;
+Niederösterreich;2500;Baden;Pfarrplatz 7;2;;16.236601329525794;48.0093113
+Niederösterreich;2500;Baden;Weilburgstr. 27 - 29;1;;16.225112;48.0048293
+Niederösterreich;2512;Tribuswinkel;Kirchenplatz re Seite;1;;;
+Niederösterreich;2521;Trumau;Pfarrhof;1;;;
+Niederösterreich;2523;Tattendorf;Kirchengasse 1;1;;16.2992164;47.9602774
+Niederösterreich;2531;Gaaden;Kirchenplatz 1;1;;16.199317;48.053736
+Niederösterreich;2620;Loipersbach;Guntramserstraße - Bauhof;1;;;
+Niederösterreich;2700;Wr.Neustadt;Wienerstrasse 62, carla süd;1;;;
+Niederösterreich;2700;Wr.Neustadt;Grazerstrasse 52, Caritas Schule;1;;;
+Niederösterreich;2700;Wr.Neustadt;Neunkirchnerstr., Firma Metro;1;;;
+Niederösterreich;2700;Wr.Neustadt;Brunnerstrasse 5-7, Erlöserkirche;1;;;
+Niederösterreich;2700;Wr.Neustadt;Felbergasse 42, Familienkirche;1;;;
+Niederösterreich;2700;Wr.Neustadt;Badnerstr.;1;;;
+Niederösterreich;2700;Wr.Neustadt;Anemonensee;1;;;
+Niederösterreich;2700;Wr.Neustadt;Heideansiedlung, Steinabrückl;1;;;
+Niederösterreich;2721;Bad Fischau;Hauptstrasse 24, Friedhof;1;;;
+Niederösterreich;2721;Bad Fischau;Blätterasse 2 a, Spar;1;;;
+Niederösterreich;2721;Bad Fischau;Bauhof;1;;;
+Niederösterreich;2731;St.Egyden;Nr 1, Kirche;1;;16.102239197544833;47.78136445
+Niederösterreich;2751;Matzendorf;Kreisverkehr;2;;;
+Niederösterreich;2752;Wöllersdorf;Römerstrasse 3-9, Firma Ramonda;1;;;
+Niederösterreich;2752;Wöllersdorf;Tirolerbachstr., Sammelstelle;1;;;
+Niederösterreich;2763;Pernitz;Hauptstraße 91;2;;15.955378910581272;47.8954992
+Niederösterreich;2770;Gutenstein;Bahnhof;1;;15.910606189783625;47.876976150000004
+Niederösterreich;2811;Wiesmath;Hauptplatz 1;1;;16.288131969643487;47.618017300000005
+Niederösterreich;2821;Lanzenkirchen;Haderswörth, Feuerwehr;1;;16.22147175;47.736499300000006
+Niederösterreich;2821;Lanzenkirchen;Bauhof;1;;16.2122772;47.7336501
+Niederösterreich;2840;Hochegg;Parkplatz;1;;16.0879282;47.6168815
+Niederösterreich;2840;Grimmenstein;Hauptplatz, Gemeinde;1;;;
+Niederösterreich;2842;Edlitz;Parkplatz;1;;16.1293189;47.6129377
+Niederösterreich;2842;Münchendorf;Kirchenplatz;1;;16.3791318;48.0298661
+Niederösterreich;2845;Wampersdorf;Kirche;1;;;
+Niederösterreich;2851;Krumbach;Bundesstr., Gärtnerei Pichlbauer;1;;;
+Niederösterreich;2852;Hochneukirchen;Bauhof;1;;16.1994959;47.4594154
+Niederösterreich;2853;Bad Schönau;Ödhöfen 8, Fleischhauerei;1;;;
+Niederösterreich;2860;Kirchschlag;Pfarrhof - Passionsspielstraße 3;2;;;
+Niederösterreich;2860;Kirchschlag;Dr.-Bruno-Schimetschkeplatz 1;1;;;
+Niederösterreich;2870;Aspang;Bundesstr.54;3;;;
+Niederösterreich;2872;Mönichkirchen;Mönichkirchen 18, Bauhof;1;;;
+Niederösterreich;2931;Warth;Hauptstraße;1;;;
+Niederösterreich;2931;Wr. Neustadt;Neuklostergasse 1;1;;16.2465161;47.8120974
+Niederösterreich;3002;Purkersdorf;Pfarrhofgasse 1;1;;16.17626041512569;48.20839325
+Niederösterreich;2813;Lichtenegg;Hauptstrasse 28;1;;16.197267794122823;47.59864415

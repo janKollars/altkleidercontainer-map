@@ -1,0 +1,2382 @@
+[
+  {
+    "state": "Wien",
+    "postal": "1010",
+    "city": "Wien",
+    "street": "Stephansplatz 6",
+    "container": 2,
+    "note": null,
+    "lon": "16.3740951",
+    "lat": "48.2087007"
+  },
+  {
+    "state": "Wien",
+    "postal": "1020",
+    "city": "Wien",
+    "street": "Laufbergergasse 12",
+    "container": 1,
+    "note": null,
+    "lon": "16.3965660830156",
+    "lat": "48.21298785"
+  },
+  {
+    "state": "Wien",
+    "postal": "1020",
+    "city": "Wien",
+    "street": "Lassallestraße 5",
+    "container": 1,
+    "note": null,
+    "lon": "16.3964368",
+    "lat": "48.2216116"
+  },
+  {
+    "state": "Wien",
+    "postal": "1030",
+    "city": "Wien",
+    "street": "Hagenmüllergasse 33",
+    "container": 1,
+    "note": null,
+    "lon": "16.4051983",
+    "lat": "48.1973747"
+  },
+  {
+    "state": "Wien",
+    "postal": "1050",
+    "city": "Wien",
+    "street": "Siebenbrunnenfeldgasse 22 - 24",
+    "container": 1,
+    "note": null,
+    "lon": "16.35265412211735",
+    "lat": "48.18183465"
+  },
+  {
+    "state": "Wien",
+    "postal": "1060",
+    "city": "Wien",
+    "street": "Barnabitengasse 14",
+    "container": 1,
+    "note": "(GRUFT!! Kein öffentlicher Einwurf )",
+    "lon": "16.3534923",
+    "lat": "48.1989135"
+  },
+  {
+    "state": "Wien",
+    "postal": "1070",
+    "city": "Wien",
+    "street": "Westbahnstraße 17",
+    "container": 1,
+    "note": null,
+    "lon": "16.344414",
+    "lat": "48.201715"
+  },
+  {
+    "state": "Wien",
+    "postal": "1090",
+    "city": "Wien",
+    "street": "Rooseveltplatz",
+    "container": 1,
+    "note": null,
+    "lon": "16.3581038",
+    "lat": "48.2158915"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Buchengasse 111 - 113",
+    "container": 1,
+    "note": null,
+    "lon": "16.366336580165274",
+    "lat": "48.1753567"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Laaer Berg Straße 222",
+    "container": 1,
+    "note": null,
+    "lon": "16.39635418801653",
+    "lat": "48.1525771"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Absberggasse 27",
+    "container": 1,
+    "note": null,
+    "lon": "16.3904387",
+    "lat": "48.1718099"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Otto-Probst-Straße 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.3537276",
+    "lat": "48.1560361"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Tesarekplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.3497344",
+    "lat": "48.155232"
+  },
+  {
+    "state": "Wien",
+    "postal": "1100",
+    "city": "Wien",
+    "street": "Otto Probst-Straße 5 ident Baron Karl Gasse 7",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Werkstättenweg 27 - 29",
+    "container": 1,
+    "note": null,
+    "lon": "16.4017006",
+    "lat": "48.1726179"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Oriongasse  13",
+    "container": 1,
+    "note": null,
+    "lon": "16.435087236961202",
+    "lat": "48.16796085"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Schmidgunstgasse 73",
+    "container": 1,
+    "note": null,
+    "lon": "16.470505700050154",
+    "lat": "48.16074435"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Braunhubergasse 18",
+    "container": 1,
+    "note": null,
+    "lon": "16.4136365",
+    "lat": "48.1695814"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Dommesgasse 14",
+    "container": 1,
+    "note": null,
+    "lon": "16.414226",
+    "lat": "48.1713587"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Kaiser Ebersdorfer Straße 164 - 168",
+    "container": 1,
+    "note": null,
+    "lon": "16.4272303",
+    "lat": "48.167249"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Am Hofgartl 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.464477",
+    "lat": "48.1551172"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Wopenkastraße 6",
+    "container": 1,
+    "note": null,
+    "lon": "16.462264787739237",
+    "lat": "48.151248800000005"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Meidlgasse 19",
+    "container": 1,
+    "note": null,
+    "lon": "16.4492992",
+    "lat": "48.1595195"
+  },
+  {
+    "state": "Wien",
+    "postal": "1110",
+    "city": "Wien",
+    "street": "Dreherstraße 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.473796750782554",
+    "lat": "48.157740700000005"
+  },
+  {
+    "state": "Wien",
+    "postal": "1120",
+    "city": "Wien",
+    "street": "Liebenstraße 31",
+    "container": 1,
+    "note": null,
+    "lon": "16.3279246",
+    "lat": "48.1686245"
+  },
+  {
+    "state": "Wien",
+    "postal": "1120",
+    "city": "Wien",
+    "street": "Ruckergasse 33",
+    "container": 1,
+    "note": null,
+    "lon": "16.3269063",
+    "lat": "48.1788659"
+  },
+  {
+    "state": "Wien",
+    "postal": "1120",
+    "city": "Wien",
+    "street": "Schönbrunnerstraße 295",
+    "container": 1,
+    "note": "im Hof",
+    "lon": "16.3216161",
+    "lat": "48.1833165"
+  },
+  {
+    "state": "Wien",
+    "postal": "1120",
+    "city": "Wien",
+    "street": "Tanbruckgasse 16-22",
+    "container": 1,
+    "note": null,
+    "lon": "16.3284297",
+    "lat": "48.1768785"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Frimbergergasse 10",
+    "container": 1,
+    "note": null,
+    "lon": "16.2937229",
+    "lat": "48.1886513"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Linienamtsgasse 7",
+    "container": 1,
+    "note": null,
+    "lon": "16.2779602",
+    "lat": "48.1635611"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Fasangartengasse 48",
+    "container": 1,
+    "note": null,
+    "lon": "16.290242653750425",
+    "lat": "48.17279795"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Kardinal-König-Platz 3",
+    "container": 1,
+    "note": null,
+    "lon": "16.28319594291346",
+    "lat": "48.1778526"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Hanschweg 1 bei Karmeliterkloster",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Auhofstraße 120",
+    "container": 1,
+    "note": null,
+    "lon": "16.2738752",
+    "lat": "48.19054"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Blebanngasse/Schrutkagasse Mistplatz",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Gobergasse 89",
+    "container": 1,
+    "note": null,
+    "lon": "16.266902181840873",
+    "lat": "48.178135850000004"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "St. Veithgasse 25",
+    "container": 2,
+    "note": "Haus Don Bosco",
+    "lon": "16.3794635",
+    "lat": "48.1979917"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Kardinal-Piffl-Gasse 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.2615337",
+    "lat": "48.1633281"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Bossigasse 68-70",
+    "container": 1,
+    "note": null,
+    "lon": "16.2764349",
+    "lat": "48.1835794"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Thomas-Morus-Gasse 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.2809109",
+    "lat": "48.1723118"
+  },
+  {
+    "state": "Wien",
+    "postal": "1130",
+    "city": "Wien",
+    "street": "Hietzinger Kai 131",
+    "container": 1,
+    "note": null,
+    "lon": "16.2885939",
+    "lat": "48.1905501"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Ameisbachzeile 5",
+    "container": 1,
+    "note": null,
+    "lon": "16.2920992",
+    "lat": "48.201426"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Hauptstraße 9",
+    "container": 2,
+    "note": null,
+    "lon": "16.228686880102835",
+    "lat": "48.20744815"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Edenstraße 21",
+    "container": 1,
+    "note": "Haus St. Klemens",
+    "lon": "16.243914610369636",
+    "lat": "48.21513935"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Müller-Guttenbrunn-Straße 35",
+    "container": 2,
+    "note": null,
+    "lon": "16.2721867",
+    "lat": "48.199563"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Tinterstraße 27",
+    "container": 1,
+    "note": null,
+    "lon": "16.2753101",
+    "lat": "48.2019729"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Lorenz Weiss Gasse 11 - 13",
+    "container": 1,
+    "note": null,
+    "lon": "16.270023",
+    "lat": "48.2003514"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Flötzersteig 167",
+    "container": 1,
+    "note": null,
+    "lon": "16.2929183",
+    "lat": "48.2071609"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Linzerstraße 422",
+    "container": 1,
+    "note": null,
+    "lon": "16.256935308882824",
+    "lat": "48.202243100000004"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Anzbachgasse 89",
+    "container": 1,
+    "note": null,
+    "lon": "16.245387390072636",
+    "lat": "48.2075465"
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Balsaminenweg",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1140",
+    "city": "Wien",
+    "street": "Sampogasse 5",
+    "container": 1,
+    "note": null,
+    "lon": "16.3099036",
+    "lat": "48.201597"
+  },
+  {
+    "state": "Wien",
+    "postal": "1150",
+    "city": "Wien",
+    "street": "Camillo-Sitte-Gasse 3",
+    "container": 1,
+    "note": null,
+    "lon": "16.3268202",
+    "lat": "48.2030637"
+  },
+  {
+    "state": "Wien",
+    "postal": "1150",
+    "city": "Wien",
+    "street": "Vogelweidplatz 7",
+    "container": 2,
+    "note": null,
+    "lon": "16.3312661",
+    "lat": "48.2025413"
+  },
+  {
+    "state": "Wien",
+    "postal": "1160",
+    "city": "Wien",
+    "street": "Thalhaimergasse 17-29",
+    "container": 1,
+    "note": null,
+    "lon": "16.3197899",
+    "lat": "48.2081365"
+  },
+  {
+    "state": "Wien",
+    "postal": "1160",
+    "city": "Wien",
+    "street": "Albrechtskreithgasse 19 - 21",
+    "container": 1,
+    "note": null,
+    "lon": "16.3166228",
+    "lat": "48.2204065"
+  },
+  {
+    "state": "Wien",
+    "postal": "1160",
+    "city": "Wien",
+    "street": "Seitenberggasse 45-51",
+    "container": 1,
+    "note": null,
+    "lon": "16.3130338",
+    "lat": "48.2184339"
+  },
+  {
+    "state": "Wien",
+    "postal": "1160",
+    "city": "Wien",
+    "street": "Sandleitengasse 53",
+    "container": 2,
+    "note": null,
+    "lon": "16.306106227360054",
+    "lat": "48.2236213"
+  },
+  {
+    "state": "Wien",
+    "postal": "1160",
+    "city": "Wien",
+    "street": "Mörikeweg 22",
+    "container": 1,
+    "note": null,
+    "lon": "16.28942580685638",
+    "lat": "48.21372065"
+  },
+  {
+    "state": "Wien",
+    "postal": "1170",
+    "city": "Wien",
+    "street": "Alszeile 7",
+    "container": 1,
+    "note": null,
+    "lon": "16.3150213",
+    "lat": "48.2256272"
+  },
+  {
+    "state": "Wien",
+    "postal": "1170",
+    "city": "Wien",
+    "street": "Dornbacherstraße 55",
+    "container": 2,
+    "note": null,
+    "lon": "16.2983261",
+    "lat": "48.2286404"
+  },
+  {
+    "state": "Wien",
+    "postal": "1180",
+    "city": "Wien",
+    "street": "Schafberggasse 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.310007922916807",
+    "lat": "48.24075575"
+  },
+  {
+    "state": "Wien",
+    "postal": "1190",
+    "city": "Wien",
+    "street": "Gallmeyergasse 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.3577486",
+    "lat": "48.2454085"
+  },
+  {
+    "state": "Wien",
+    "postal": "1190",
+    "city": "Wien",
+    "street": "Heiligenstädterstraße 101",
+    "container": 2,
+    "note": null,
+    "lon": "16.3617278",
+    "lat": "48.2470928"
+  },
+  {
+    "state": "Wien",
+    "postal": "1190",
+    "city": "Wien",
+    "street": "Fröschelgasse 18",
+    "container": 1,
+    "note": null,
+    "lon": "16.320865301082964",
+    "lat": "48.25264585"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Schererstraße 22",
+    "container": 1,
+    "note": null,
+    "lon": "16.4445752",
+    "lat": "48.2756584"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Schwaigergasse 19",
+    "container": 1,
+    "note": null,
+    "lon": "16.3931183",
+    "lat": "48.2585025"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Steinheilgasse 3",
+    "container": 2,
+    "note": null,
+    "lon": "16.412251100774",
+    "lat": "48.26312835"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Koloniestraße 12",
+    "container": 1,
+    "note": null,
+    "lon": "16.39426084988075",
+    "lat": "48.26648"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Brünnerstraße 133",
+    "container": 1,
+    "note": null,
+    "lon": "16.407705",
+    "lat": "48.2763259"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Maximilian Reich Weg 1, Ecke Edi Finger Straße 2",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Lorettoplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.386016",
+    "lat": "48.2696027"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Frömmlgasse 31",
+    "container": 1,
+    "note": null,
+    "lon": "16.3948993",
+    "lat": "48.2592566"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Blechschmidtgasse 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.3785424",
+    "lat": "48.276091"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Iselgasse 1-3/11",
+    "container": 1,
+    "note": null,
+    "lon": "16.4566808",
+    "lat": "48.2815327"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Jedlersdorferstraße 282",
+    "container": 1,
+    "note": "Keynesgasse - Durchgang",
+    "lon": "16.4129254",
+    "lat": "48.2931758"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Mühlschüttelgasse 37",
+    "container": 1,
+    "note": null,
+    "lon": "16.4074595",
+    "lat": "48.2504528"
+  },
+  {
+    "state": "Wien",
+    "postal": "1210",
+    "city": "Wien",
+    "street": "Satzingerweg 49",
+    "container": 1,
+    "note": null,
+    "lon": "16.42238025940021",
+    "lat": "48.2574816"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Schickgasse 6-8",
+    "container": 1,
+    "note": null,
+    "lon": "16.4548831",
+    "lat": "48.2229686"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Hagedornweg 6",
+    "container": 1,
+    "note": null,
+    "lon": "16.49299005876991",
+    "lat": "48.23297275"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Bergengasse 6",
+    "container": 1,
+    "note": null,
+    "lon": "16.4737068",
+    "lat": "48.2148763"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Claretinergasse 1-3",
+    "container": 1,
+    "note": null,
+    "lon": "16.4668768",
+    "lat": "48.2358398"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Donaufelder Str. 177a",
+    "container": 1,
+    "note": null,
+    "lon": "16.4320341",
+    "lat": "48.251166"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Hyazinthengasse 74",
+    "container": 1,
+    "note": null,
+    "lon": "16.4676931",
+    "lat": "48.2321325"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Gartenheimstraße/Fellnerstraße",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Strasse der Menschenrechte 1",
+    "container": 1,
+    "note": "Vienna Int. School",
+    "lon": "16.43108072934644",
+    "lat": "48.2453044"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Klara-Blum-Gasse 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.5258429359548",
+    "lat": "48.2105855"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Hammerfestweg/Sandefjordgasse",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Kapellenweg 40",
+    "container": 1,
+    "note": null,
+    "lon": "16.4702547",
+    "lat": "48.218225"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Langobardenstraße/Ecke Sandefjordgasse 2",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Markomannenstraße 36-38",
+    "container": 1,
+    "note": null,
+    "lon": "16.4591255",
+    "lat": "48.255473"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Meißauergasse 2a/1",
+    "container": 1,
+    "note": null,
+    "lon": "16.438936",
+    "lat": "48.248264"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Asperner Heldenplatz 9",
+    "container": 2,
+    "note": null,
+    "lon": "16.482986276365544",
+    "lat": "48.218037249999995"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Quadenstraße 53",
+    "container": 1,
+    "note": null,
+    "lon": "16.481370216060952",
+    "lat": "48.23822355"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Süßenbrunnerstraße 58/Hanfgasse",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Ullreichgasse 12",
+    "container": 1,
+    "note": null,
+    "lon": "16.434134510026368",
+    "lat": "48.2528308"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Auernheimergasse 47",
+    "container": 1,
+    "note": null,
+    "lon": "16.522265",
+    "lat": "48.2032951"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Erzherzog Karl Straße 129 b",
+    "container": 1,
+    "note": null,
+    "lon": "16.457427",
+    "lat": "48.2292925"
+  },
+  {
+    "state": "Wien",
+    "postal": "1220",
+    "city": "Wien",
+    "street": "Wagramer Straße 81/2/3",
+    "container": 1,
+    "note": null,
+    "lon": "16.434159",
+    "lat": "48.2428058"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Anton-Krieger-Gasse 2-16",
+    "container": 1,
+    "note": null,
+    "lon": "16.28169381292904",
+    "lat": "48.14072605"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Anton-Krieger-Gasse 202",
+    "container": 1,
+    "note": null,
+    "lon": "16.2554547",
+    "lat": "48.1454666"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Erlaaerplatz 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.3084552",
+    "lat": "48.1479703"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Johann-Dunkl-Gasse 9-13",
+    "container": 1,
+    "note": null,
+    "lon": "16.3466786",
+    "lat": "48.1459764"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Färbermühlgasse 6",
+    "container": 1,
+    "note": null,
+    "lon": "16.28235991382402",
+    "lat": "48.133717000000004"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Pfarre Rodaun, Schreckgasse 19",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Franz Asenbauer Gasse 51",
+    "container": 1,
+    "note": null,
+    "lon": "16.2629051",
+    "lat": "48.1568352"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Ober den Gärten über Podhgasse",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Endresstraße 59/Rudolf-Zellergasse",
+    "container": 2,
+    "note": null,
+    "lon": "16.283129",
+    "lat": "48.147326"
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Reklewskigasse 2-10/Eduard-Kittenberg-Gasse",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Wien",
+    "postal": "1230",
+    "city": "Wien",
+    "street": "Trepetschniggasse 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.3044129",
+    "lat": "48.150440700000004"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2020",
+    "city": "Hollabrunn",
+    "street": "Reucklstraße 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.08400296995903",
+    "lat": "48.560556899999995"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2020",
+    "city": "Hollabrunn",
+    "street": "Kirchenplatz",
+    "container": 5,
+    "note": null,
+    "lon": "16.0807996",
+    "lat": "48.5611328"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2051",
+    "city": "Zellerndorf",
+    "street": "Bahnstraße 244",
+    "container": 1,
+    "note": null,
+    "lon": "15.9657025",
+    "lat": "48.6745354"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2070",
+    "city": "Retz",
+    "street": "Fladnitzerstraße 44-46",
+    "container": 1,
+    "note": null,
+    "lon": "15.9412349",
+    "lat": "48.7709666"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2100",
+    "city": "Leobendorf",
+    "street": "Schmiedgasse 15 bei Feuerwehr",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2100",
+    "city": "Leobendorf",
+    "street": "Im Hausholz 8",
+    "container": 1,
+    "note": null,
+    "lon": "16.31988049407228",
+    "lat": "48.3757516"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2100",
+    "city": "Leobendorf",
+    "street": "Pfarrweg 15",
+    "container": 1,
+    "note": null,
+    "lon": "16.31723674184444",
+    "lat": "48.375810900000005"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2100",
+    "city": "Leobendorf",
+    "street": "Dr. Ansorge Straße 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.3158186",
+    "lat": "48.3735404"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2100",
+    "city": "Leobendorf",
+    "street": "Stockerauer Straße Ecke Kreuzsteinerweg",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2102",
+    "city": "Bisamberg",
+    "street": "Kaiserallee 23",
+    "container": 1,
+    "note": null,
+    "lon": "16.3430579",
+    "lat": "48.3389346"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2103",
+    "city": "Langenzersdorf",
+    "street": "Krottendorferstraße 50",
+    "container": 1,
+    "note": null,
+    "lon": "16.3726861",
+    "lat": "48.2953205"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2103",
+    "city": "Langenzersdorf",
+    "street": "Alleestraße 75-77 am Parkplatz",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2103",
+    "city": "Langenzersdorf",
+    "street": "Friedhofstraße",
+    "container": 3,
+    "note": null,
+    "lon": "16.3608445",
+    "lat": "48.3063638"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2103",
+    "city": "Langenzersdorf",
+    "street": "Alleestraße 111",
+    "container": 1,
+    "note": null,
+    "lon": "16.3551328",
+    "lat": "48.3007091"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2103",
+    "city": "Langenzersdorf",
+    "street": "Schulstraße 50",
+    "container": 2,
+    "note": null,
+    "lon": "16.3563853",
+    "lat": "48.3085213"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2104",
+    "city": "Spillern",
+    "street": "Marienhofstraße 8 bei Sportplatz",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2104",
+    "city": "Spillern",
+    "street": "Kirchenplatz",
+    "container": 2,
+    "note": null,
+    "lon": "16.2548035",
+    "lat": "48.377385"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2105",
+    "city": "Unterrohrbach",
+    "street": "Badgasse 21",
+    "container": 1,
+    "note": null,
+    "lon": "16.290530957794342",
+    "lat": "48.38151645"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2105",
+    "city": "Oberrohrbach",
+    "street": "Hofstraße/Heimgasse",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2105",
+    "city": "Oberrohrbach",
+    "street": "Leobendorfer Straße/Schaflerhofweg",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2111",
+    "city": "Tresdorf",
+    "street": "Obere Hauptstraße/Laaer Straße",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2113",
+    "city": "Wetzleinsdorf",
+    "street": "Brunnenweg 7",
+    "container": 1,
+    "note": null,
+    "lon": "16.382712",
+    "lat": "48.4764919"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2113",
+    "city": "Hipples",
+    "street": "Bachstraße 5",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2114",
+    "city": "Weinsteig",
+    "street": "Am Graben - bei Feuerwehr",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2116",
+    "city": "Niederleis",
+    "street": "Hauptstraße 71",
+    "container": 1,
+    "note": null,
+    "lon": "16.3975547",
+    "lat": "48.5521153"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2120",
+    "city": "Obersdorf",
+    "street": "Kirschenalle/Sportplatz",
+    "container": 3,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2122",
+    "city": "Ulrichskirchen",
+    "street": "Florianiplatz 2 bei Feuerwehr",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2122",
+    "city": "Ulrichskirchen",
+    "street": "Hofberggasse 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.490525501884576",
+    "lat": "48.4023801"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2123",
+    "city": "Traunfeld",
+    "street": "Bachstraße 2",
+    "container": 1,
+    "note": null,
+    "lon": "16.5229367",
+    "lat": "48.4439656"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2124",
+    "city": "Niederkreuzstetten",
+    "street": "Kirchenplatz 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.4798597",
+    "lat": "48.4805879"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2130",
+    "city": "Mistelbach",
+    "street": "Haydngasse - Parkplatz",
+    "container": 1,
+    "note": null,
+    "lon": "16.5733864",
+    "lat": "48.5639442"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2191",
+    "city": "Gaweinstal",
+    "street": "Kirchenplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.5882491",
+    "lat": "48.4778441"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2221",
+    "city": "Groß Schweinbarth",
+    "street": "Kirchenplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.6309593",
+    "lat": "48.4142717"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2230",
+    "city": "Gänserndorf",
+    "street": "Kirchenplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.720090335457407",
+    "lat": "48.34177985"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2231",
+    "city": "Strasshof",
+    "street": "Pestalozzistraße 62 - Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2231",
+    "city": "Strasshof",
+    "street": "Hauptstraße Silberwald 400 - Pfarrheim",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2320",
+    "city": "Schwechat",
+    "street": "Zirkelweg 3",
+    "container": 1,
+    "note": null,
+    "lon": "16.47640619171453",
+    "lat": "48.130891899999995"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2334",
+    "city": "Vösendorf",
+    "street": "SCS  Eingang 4 Innen beim Service Corner",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2326",
+    "city": "Maria Lanzendorf",
+    "street": "Obere Hauptstraße 37",
+    "container": 3,
+    "note": null,
+    "lon": "16.432985",
+    "lat": "48.1040064"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2326",
+    "city": "Maria Lanzendorf",
+    "street": "Hauptstraße 4",
+    "container": 1,
+    "note": null,
+    "lon": "16.42468232310606",
+    "lat": "48.1008689"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2340",
+    "city": "Mödling",
+    "street": "Mölkergasse 7",
+    "container": 1,
+    "note": null,
+    "lon": "16.29048669887391",
+    "lat": "48.0852507"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2340",
+    "city": "Mödling",
+    "street": "Ungargasse 5",
+    "container": 1,
+    "note": null,
+    "lon": "16.3023698",
+    "lat": "48.088916"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2340",
+    "city": "Maria Enzersdorf",
+    "street": "Gabrielerstraße 171 - bei Kirche und im Hof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2353",
+    "city": "Neu Guntramsdorf",
+    "street": "Dr. Karl Renner Straße 19",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2361",
+    "city": "Laxenburg",
+    "street": "Schlossplatz 5 - im Hof bei Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2380",
+    "city": "Perchtoldsdorf",
+    "street": "Sebastian-Kneipp-Gasse 11",
+    "container": 1,
+    "note": null,
+    "lon": "16.280700796408155",
+    "lat": "48.1259192"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2380",
+    "city": "Perchtoldsdorf",
+    "street": "Marktplatz 14",
+    "container": 1,
+    "note": null,
+    "lon": "16.2652354",
+    "lat": "48.1187893"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2384",
+    "city": "Breitenfurt",
+    "street": "Bonifaziusgasse 2 - bei Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2384",
+    "city": "Breitenfurt",
+    "street": "Hauptstraße 128",
+    "container": 2,
+    "note": null,
+    "lon": "16.208641341946603",
+    "lat": "48.13682205"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2412",
+    "city": "Wolfsthal",
+    "street": "Hauptstraße 36",
+    "container": 1,
+    "note": null,
+    "lon": "17.0053564",
+    "lat": "48.1371869"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2440",
+    "city": "Gramatneusiedl",
+    "street": "Oberortsstraße 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.4856717",
+    "lat": "48.0275835"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2454",
+    "city": "Trautmannsdorf",
+    "street": "Hauptstraße 45a",
+    "container": 1,
+    "note": null,
+    "lon": "16.641889458606293",
+    "lat": "48.0233951"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2460",
+    "city": "Bruck an der Leitha",
+    "street": "Kochgasse 6",
+    "container": 2,
+    "note": null,
+    "lon": "16.7776215",
+    "lat": "48.02651"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2514",
+    "city": "Traiskirchen",
+    "street": "Glöckelstraße 24",
+    "container": 4,
+    "note": null,
+    "lon": "16.283005177471594",
+    "lat": "48.015548800000005"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3001",
+    "city": "Mauerbach",
+    "street": "Mistplatz Kutscherstall Einfahrt Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3001",
+    "city": "Mauerbach",
+    "street": "Hauptstraße/Steinbachstraße",
+    "container": 3,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Hochbuchstraße 18",
+    "container": 2,
+    "note": null,
+    "lon": "16.158023681303494",
+    "lat": "48.22356455"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Linzerstraße 77",
+    "container": 1,
+    "note": null,
+    "lon": "16.157921510183833",
+    "lat": "48.22656215000001"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Hauersteigstraße 51",
+    "container": 1,
+    "note": null,
+    "lon": "16.141480610768703",
+    "lat": "48.22418625"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Kirchenplatz 2",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Ferdinand-Ebner-Gasse 6",
+    "container": 1,
+    "note": null,
+    "lon": "16.15271606444194",
+    "lat": "48.2286034"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Linzer Straße 165 b",
+    "container": 1,
+    "note": null,
+    "lon": "16.161919",
+    "lat": "48.2227942"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3003",
+    "city": "Gablitz",
+    "street": "Linzer Straße bei Miterauenstraße",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3011",
+    "city": "Untertullnerbach",
+    "street": "Irenental 1",
+    "container": 2,
+    "note": null,
+    "lon": "16.1164686",
+    "lat": "48.1986128"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3012",
+    "city": "Wolfsgraben",
+    "street": "Hauptstraße 27",
+    "container": 2,
+    "note": null,
+    "lon": "16.122354038285714",
+    "lat": "48.1587985"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3021",
+    "city": "Pressbaum",
+    "street": "Hauptstraße 75",
+    "container": 2,
+    "note": null,
+    "lon": "16.07760867193037",
+    "lat": "48.17928485"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Tullnerstraße 5, Scheiblingstein",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Kirchenplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.274226567174303",
+    "lat": "48.3084274"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Hauptstraße 12",
+    "container": 1,
+    "note": null,
+    "lon": "16.30799164332128",
+    "lat": "48.2904211"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Sachsengasse 2",
+    "container": 3,
+    "note": null,
+    "lon": "16.3300821",
+    "lat": "48.2934883"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Stiftsplatz 5",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3400",
+    "city": "Klosterneuburg",
+    "street": "Brandmayerstraße 50",
+    "container": 1,
+    "note": null,
+    "lon": "16.322228921651984",
+    "lat": "48.292359399999995"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3420",
+    "city": "Kritzendorf",
+    "street": "St. Vitus Platz",
+    "container": 2,
+    "note": null,
+    "lon": "16.3026966",
+    "lat": "48.3276847"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3421",
+    "city": "Höflein",
+    "street": "Schulgasse 5",
+    "container": 1,
+    "note": null,
+    "lon": "16.2746429",
+    "lat": "48.3496512"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3464",
+    "city": "Hausleiten",
+    "street": "Kirchenstraße 41",
+    "container": 2,
+    "note": null,
+    "lon": "16.0955442",
+    "lat": "48.3968331"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3701",
+    "city": "Großweikersdorf",
+    "street": "Schmidastraße 2",
+    "container": 1,
+    "note": null,
+    "lon": "15.9808276",
+    "lat": "48.4693879"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3720",
+    "city": "Ravelsbach",
+    "street": "Parkweg",
+    "container": 3,
+    "note": null,
+    "lon": "15.8487573",
+    "lat": "48.5525622"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2120",
+    "city": "Wolkersdorf",
+    "street": "Withalmstraße 4",
+    "container": 3,
+    "note": null,
+    "lon": "16.5230684",
+    "lat": "48.3807886"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2451",
+    "city": "Hof/Leithageb.",
+    "street": "Hauptstrasse 7, neben Pfarrhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2451",
+    "city": "Au / Leithage.",
+    "street": "Hauptstrasse, vor der Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2483",
+    "city": "Weigelsdorf",
+    "street": "Friedhof",
+    "container": 1,
+    "note": null,
+    "lon": "16.406365",
+    "lat": "47.9457596"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2483",
+    "city": "Ebreichsdorf",
+    "street": "Friedhof",
+    "container": 1,
+    "note": null,
+    "lon": "16.406365",
+    "lat": "47.9457596"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2492",
+    "city": "Eggendorf",
+    "street": "Kirchengasse 1, Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2492",
+    "city": "Eggendorf",
+    "street": "Maria Theresiensiedlung, Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2500",
+    "city": "Sooss",
+    "street": "Weingartenstraße",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2500",
+    "city": "Baden",
+    "street": "Pfarrplatz 7",
+    "container": 2,
+    "note": null,
+    "lon": "16.236601329525794",
+    "lat": "48.0093113"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2500",
+    "city": "Baden",
+    "street": "Weilburgstr. 27 - 29",
+    "container": 1,
+    "note": null,
+    "lon": "16.225112",
+    "lat": "48.0048293"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2512",
+    "city": "Tribuswinkel",
+    "street": "Kirchenplatz re Seite",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2521",
+    "city": "Trumau",
+    "street": "Pfarrhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2523",
+    "city": "Tattendorf",
+    "street": "Kirchengasse 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.2992164",
+    "lat": "47.9602774"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2531",
+    "city": "Gaaden",
+    "street": "Kirchenplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.199317",
+    "lat": "48.053736"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2620",
+    "city": "Loipersbach",
+    "street": "Guntramserstraße - Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Wienerstrasse 62, carla süd",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Grazerstrasse 52, Caritas Schule",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Neunkirchnerstr., Firma Metro",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Brunnerstrasse 5-7, Erlöserkirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Felbergasse 42, Familienkirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Badnerstr.",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Anemonensee",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2700",
+    "city": "Wr.Neustadt",
+    "street": "Heideansiedlung, Steinabrückl",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2721",
+    "city": "Bad Fischau",
+    "street": "Hauptstrasse 24, Friedhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2721",
+    "city": "Bad Fischau",
+    "street": "Blätterasse 2 a, Spar",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2721",
+    "city": "Bad Fischau",
+    "street": "Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2731",
+    "city": "St.Egyden",
+    "street": "Nr 1, Kirche",
+    "container": 1,
+    "note": null,
+    "lon": "16.102239197544833",
+    "lat": "47.78136445"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2751",
+    "city": "Matzendorf",
+    "street": "Kreisverkehr",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2752",
+    "city": "Wöllersdorf",
+    "street": "Römerstrasse 3-9, Firma Ramonda",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2752",
+    "city": "Wöllersdorf",
+    "street": "Tirolerbachstr., Sammelstelle",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2763",
+    "city": "Pernitz",
+    "street": "Hauptstraße 91",
+    "container": 2,
+    "note": null,
+    "lon": "15.955378910581272",
+    "lat": "47.8954992"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2770",
+    "city": "Gutenstein",
+    "street": "Bahnhof",
+    "container": 1,
+    "note": null,
+    "lon": "15.910606189783625",
+    "lat": "47.876976150000004"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2811",
+    "city": "Wiesmath",
+    "street": "Hauptplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.288131969643487",
+    "lat": "47.618017300000005"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2821",
+    "city": "Lanzenkirchen",
+    "street": "Haderswörth, Feuerwehr",
+    "container": 1,
+    "note": null,
+    "lon": "16.22147175",
+    "lat": "47.736499300000006"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2821",
+    "city": "Lanzenkirchen",
+    "street": "Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": "16.2122772",
+    "lat": "47.7336501"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2840",
+    "city": "Hochegg",
+    "street": "Parkplatz",
+    "container": 1,
+    "note": null,
+    "lon": "16.0879282",
+    "lat": "47.6168815"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2840",
+    "city": "Grimmenstein",
+    "street": "Hauptplatz, Gemeinde",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2842",
+    "city": "Edlitz",
+    "street": "Parkplatz",
+    "container": 1,
+    "note": null,
+    "lon": "16.1293189",
+    "lat": "47.6129377"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2842",
+    "city": "Münchendorf",
+    "street": "Kirchenplatz",
+    "container": 1,
+    "note": null,
+    "lon": "16.3791318",
+    "lat": "48.0298661"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2845",
+    "city": "Wampersdorf",
+    "street": "Kirche",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2851",
+    "city": "Krumbach",
+    "street": "Bundesstr., Gärtnerei Pichlbauer",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2852",
+    "city": "Hochneukirchen",
+    "street": "Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": "16.1994959",
+    "lat": "47.4594154"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2853",
+    "city": "Bad Schönau",
+    "street": "Ödhöfen 8, Fleischhauerei",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2860",
+    "city": "Kirchschlag",
+    "street": "Pfarrhof - Passionsspielstraße 3",
+    "container": 2,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2860",
+    "city": "Kirchschlag",
+    "street": "Dr.-Bruno-Schimetschkeplatz 1",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2870",
+    "city": "Aspang",
+    "street": "Bundesstr.54",
+    "container": 3,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2872",
+    "city": "Mönichkirchen",
+    "street": "Mönichkirchen 18, Bauhof",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2931",
+    "city": "Warth",
+    "street": "Hauptstraße",
+    "container": 1,
+    "note": null,
+    "lon": null,
+    "lat": null
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2931",
+    "city": "Wr. Neustadt",
+    "street": "Neuklostergasse 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.2465161",
+    "lat": "47.8120974"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "3002",
+    "city": "Purkersdorf",
+    "street": "Pfarrhofgasse 1",
+    "container": 1,
+    "note": null,
+    "lon": "16.17626041512569",
+    "lat": "48.20839325"
+  },
+  {
+    "state": "Niederösterreich",
+    "postal": "2813",
+    "city": "Lichtenegg",
+    "street": "Hauptstrasse 28",
+    "container": 1,
+    "note": null,
+    "lon": "16.197267794122823",
+    "lat": "47.59864415"
+  }
+]

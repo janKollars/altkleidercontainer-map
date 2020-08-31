@@ -1,0 +1,21 @@
+{
+  "name": "altkleider-container-map",
+  "version": "0.0.0",
+  "author": "Jan Kollars",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janKollars/altkleider-container-map.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "ol": "^6.4.3",
+    "vue": "^3.0.0-rc.9"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.4",
+    "@vue/compiler-sfc": "^3.0.0-rc.9"
+  }
+}
