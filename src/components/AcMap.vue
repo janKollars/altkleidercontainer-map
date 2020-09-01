@@ -17,6 +17,7 @@ import { fromLonLat } from "ol/proj";
 import { OSM, Vector as VectorSource } from "ol/source";
 import { Icon, Style } from "ol/style";
 import { ref } from "vue";
+import pinSVG from "../assets/pin.svg.js";
 
 export default {
   name: "AcMap",
@@ -30,43 +31,63 @@ export default {
     return {
       popupActive: ref(false),
       popupContent: ref({}),
+      zoomLevel: ref(12),
     };
   },
   mounted() {
     this.$refs.map.focus();
 
-    const map = new Map({
+    this.map = new Map({
       target: this.$refs.map,
       layers: [
         new TileLayer({
           source: new OSM({
             attributions: [
               '© <a href="https://www.openstreetmap.org/copyright" rel="noopener" target="_blank">OpenStreetMap</a> contributors.',
-              'Daten <a href="https://www.carla-wien.at/spenden/kleidercontainer/" rel="noopener" target="_blank">Caritas Wien</a>'
-            ]
+              'Daten <a href="https://www.carla-wien.at/spenden/kleidercontainer/" rel="noopener" target="_blank">Caritas Wien</a>',
+            ],
           }),
         }),
       ],
       view: new View({
         center: fromLonLat([16.363449, 48.210033]),
-        zoom: 12,
+        zoom: this.zoomLevel,
         extent: [...fromLonLat([15.8, 47.42]), ...fromLonLat([17.08, 48.8])],
       }),
     });
 
-    const pinIcon = new Icon({
-      anchor: [0.5, 1],
-      anchorXUnits: "fraction",
-      anchorYUnits: "fraction",
-      src: "pin.svg",
-      imageSize: 24,
+    this.map.addEventListener("pointermove", (event) => {
+      const pixel = this.map.getEventPixel(event.originalEvent);
+      const hit = this.map.hasFeatureAtPixel(pixel);
+      this.map.getTarget().style.cursor = hit ? "pointer" : "";
     });
 
-    const pinStyle = new Style({
-      image: pinIcon,
-    });
+    this.map.addEventListener("moveend", this.updateZoomLevel);
 
     setTimeout(() => {
+      this.drawOrganisationFeatures("caritas");
+    }, 1);
+  },
+  methods: {
+    updateZoomLevel() {
+      const newZoom = this.map.getView().getZoom();
+      if (this.zoomLevel != newZoom) {
+        this.zoomLevel = newZoom;
+      }
+    },
+    drawOrganisationFeatures(organisation) {
+      const pinIcon = new Icon({
+        anchor: [0.5, 1],
+        anchorXUnits: "fraction",
+        anchorYUnits: "fraction",
+        src: `data:image/svg+xml;utf8,${pinSVG(organisation[0].toUpperCase())}`,
+        imageSize: 24,
+      });
+
+      const pinStyle = new Style({
+        image: pinIcon,
+      });
+
       const points = [];
       for (const organisation in this.mapData) {
         for (const location of this.mapData[organisation]) {
@@ -85,20 +106,20 @@ export default {
           features: points,
         }),
       });
-      map.addLayer(vectorLayer);
+      this.map.addLayer(vectorLayer);
 
       const popupOverlay = new Overlay({
         element: this.$refs.popup,
         positioning: "bottom-center",
         offset: [0, -24],
       });
-      map.addOverlay(popupOverlay);
+      this.map.addOverlay(popupOverlay);
 
-      map.addEventListener("click", (event) => {
+      this.map.addEventListener("click", (event) => {
         if (event.target === this.$refs.popup) {
           return;
         }
-        const feature = map.forEachFeatureAtPixel(
+        const feature = this.map.forEachFeatureAtPixel(
           event.pixel,
           (feature) => feature
         );
@@ -112,28 +133,17 @@ export default {
         }
       });
 
-      let currZoom = map.getView().getZoom();
-      map.addEventListener("moveend", () => {
-        const newZoom = map.getView().getZoom();
-        if (currZoom != newZoom) {
-          if (
-            (currZoom < 13 && newZoom >= 13) ||
-            (currZoom >= 13 && newZoom < 13)
-          ) {
-            pinIcon.setScale(newZoom >= 13 ? 1.75 : 1);
-            popupOverlay.setOffset([0, newZoom >= 13 ? -24 * 1.75 : -24]);
-            vectorLayer.getSource().changed();
-          }
-          currZoom = newZoom;
+      this.$watch("zoomLevel", (newValue, oldValue) => {
+        if (
+          (oldValue < 13 && newValue >= 13) ||
+          (oldValue >= 13 && newValue < 13)
+        ) {
+          pinIcon.setScale(newValue >= 13 ? 1.75 : 1);
+          popupOverlay.setOffset([0, newValue >= 13 ? -24 * 1.75 : -24]);
+          vectorLayer.getSource().changed();
         }
       });
-
-      map.addEventListener("pointermove", (event) => {
-        const pixel = map.getEventPixel(event.originalEvent);
-        const hit = map.hasFeatureAtPixel(pixel);
-        map.getTarget().style.cursor = hit ? "pointer" : "";
-      });
-    }, 1);
+    },
   },
 };
 </script>
