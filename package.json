@@ -1,10 +1,10 @@
 {
-  "name": "altkleider-container-map",
+  "name": "altkleidercontainer-map",
   "version": "0.0.0",
   "author": "Jan Kollars",
   "repository": {
     "type": "git",
-    "url": "https://github.com/janKollars/altkleider-container-map.git"
+    "url": "https://github.com/janKollars/altkleidercontainer-map.git"
   },
   "scripts": {
     "dev": "vite",
