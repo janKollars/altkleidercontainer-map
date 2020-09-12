@@ -55,7 +55,7 @@
     "city": "Wien",
     "street": "Barnabitengasse 14",
     "container": 1,
-    "note": "(GRUFT!! Kein öffentlicher Einwurf )",
+    "note": "(GRUFT!! Kein öffentlicher Einwurf)",
     "lon": "16.3534923",
     "lat": "48.1989135"
   },
@@ -133,27 +133,27 @@
     "state": "Wien",
     "postal": "1100",
     "city": "Wien",
-    "street": "Otto Probst-Straße 5 ident Baron Karl Gasse 7",
+    "street": "Baron-Karl-Gasse 7",
     "container": 1,
-    "note": null,
-    "lon": null,
-    "lat": null
+    "note": "ident Otto Probst-Straße 5",
+    "lon": "16.3526552",
+    "lat": "48.1538041"
   },
   {
     "state": "Wien",
     "postal": "1110",
     "city": "Wien",
-    "street": "Werkstättenweg 27 - 29",
+    "street": "Werkstättenweg",
     "container": 1,
     "note": null,
-    "lon": "16.4017006",
-    "lat": "48.1726179"
+    "lon": "16.404055",
+    "lat": "48.172389"
   },
   {
     "state": "Wien",
     "postal": "1110",
     "city": "Wien",
-    "street": "Oriongasse  13",
+    "street": "Oriongasse 13",
     "container": 1,
     "note": null,
     "lon": "16.435087236961202",
@@ -323,11 +323,11 @@
     "state": "Wien",
     "postal": "1130",
     "city": "Wien",
-    "street": "Hanschweg 1 bei Karmeliterkloster",
+    "street": "Hanschweg 1",
     "container": 1,
-    "note": null,
-    "lon": null,
-    "lat": null
+    "note": "bei Karmeliterkloster",
+    "lon": "16.256063748758848",
+    "lat": "48.1763663"
   },
   {
     "state": "Wien",
@@ -343,11 +343,11 @@
     "state": "Wien",
     "postal": "1130",
     "city": "Wien",
-    "street": "Blebanngasse/Schrutkagasse Mistplatz",
+    "street": "Blebanngasse/Schrutkagasse",
     "container": 1,
-    "note": null,
-    "lon": null,
-    "lat": null
+    "note": "Mistplatz",
+    "lon": "16.2768665",
+    "lat": "48.1838004"
   },
   {
     "state": "Wien",

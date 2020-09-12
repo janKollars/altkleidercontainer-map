@@ -4,7 +4,7 @@ Wien;1020;Wien;Laufbergergasse 12;1;;16.3965660830156;48.21298785
 Wien;1020;Wien;Lassallestraße 5;1;;16.3964368;48.2216116
 Wien;1030;Wien;Hagenmüllergasse 33;1;;16.4051983;48.1973747
 Wien;1050;Wien;Siebenbrunnenfeldgasse 22 - 24;1;;16.35265412211735;48.18183465
-Wien;1060;Wien;Barnabitengasse 14;1;(GRUFT!! Kein öffentlicher Einwurf );16.3534923;48.1989135
+Wien;1060;Wien;Barnabitengasse 14;1;(GRUFT!! Kein öffentlicher Einwurf);16.3534923;48.1989135
 Wien;1070;Wien;Westbahnstraße 17;1;;16.344414;48.201715
 Wien;1090;Wien;Rooseveltplatz;1;;16.3581038;48.2158915
 Wien;1100;Wien;Buchengasse 111 - 113;1;;16.366336580165274;48.1753567
@@ -12,9 +12,9 @@ Wien;1100;Wien;Laaer Berg Straße 222;1;;16.39635418801653;48.1525771
 Wien;1100;Wien;Absberggasse 27;1;;16.3904387;48.1718099
 Wien;1100;Wien;Otto-Probst-Straße 1;1;;16.3537276;48.1560361
 Wien;1100;Wien;Tesarekplatz 1;1;;16.3497344;48.155232
-Wien;1100;Wien;Otto Probst-Straße 5 ident Baron Karl Gasse 7;1;;;
-Wien;1110;Wien;Werkstättenweg 27 - 29;1;;16.4017006;48.1726179
-Wien;1110;Wien;Oriongasse  13;1;;16.435087236961202;48.16796085
+Wien;1100;Wien;Baron-Karl-Gasse 7;1;ident Otto Probst-Straße 5;16.3526552;48.1538041
+Wien;1110;Wien;Werkstättenweg;1;;16.404055;48.172389
+Wien;1110;Wien;Oriongasse 13;1;;16.435087236961202;48.16796085
 Wien;1110;Wien;Schmidgunstgasse 73;1;;16.470505700050154;48.16074435
 Wien;1110;Wien;Braunhubergasse 18;1;;16.4136365;48.1695814
 Wien;1110;Wien;Dommesgasse 14;1;;16.414226;48.1713587
@@ -31,9 +31,9 @@ Wien;1130;Wien;Frimbergergasse 10;1;;16.2937229;48.1886513
 Wien;1130;Wien;Linienamtsgasse 7;1;;16.2779602;48.1635611
 Wien;1130;Wien;Fasangartengasse 48;1;;16.290242653750425;48.17279795
 Wien;1130;Wien;Kardinal-König-Platz 3;1;;16.28319594291346;48.1778526
-Wien;1130;Wien;Hanschweg 1 bei Karmeliterkloster;1;;;
+Wien;1130;Wien;Hanschweg 1;1;bei Karmeliterkloster;16.256063748758848;48.1763663
 Wien;1130;Wien;Auhofstraße 120;1;;16.2738752;48.19054
-Wien;1130;Wien;Blebanngasse/Schrutkagasse Mistplatz;1;;;
+Wien;1130;Wien;Blebanngasse/Schrutkagasse;1;Mistplatz;16.2768665;48.1838004
 Wien;1130;Wien;Gobergasse 89;1;;16.266902181840873;48.178135850000004
 Wien;1130;Wien;St. Veithgasse 25;2;Haus Don Bosco;16.3794635;48.1979917
 Wien;1130;Wien;Kardinal-Piffl-Gasse 2;1;;16.2615337;48.1633281

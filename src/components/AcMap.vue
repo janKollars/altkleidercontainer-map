@@ -22,13 +22,14 @@ import pinSVG from "../assets/pin.svg.js";
 export default {
   name: "AcMap",
   props: {
-    mapData: {
+    organisations: {
       type: Object,
       required: true,
     },
   },
   setup() {
     return {
+      mapData: {},
       popupActive: ref(false),
       popupContent: ref({}),
       zoomLevel: ref(12),
@@ -65,7 +66,9 @@ export default {
     this.map.addEventListener("moveend", this.updateZoomLevel);
 
     setTimeout(() => {
-      this.drawOrganisationFeatures("caritas");
+      for (const organisationKey in this.organisations) {
+        this.drawOrganisationFeatures(organisationKey);
+      }
     }, 1);
   },
   methods: {
@@ -75,12 +78,16 @@ export default {
         this.zoomLevel = newZoom;
       }
     },
-    drawOrganisationFeatures(organisation) {
+    async drawOrganisationFeatures(organisationKey) {
+      if (!(organisationKey in this.mapData)) {
+        this.mapData[organisationKey] = await fetch(`/${organisationKey}.json`)
+          .then(response => response.json())
+      }
       const pinIcon = new Icon({
         anchor: [0.5, 1],
         anchorXUnits: "fraction",
         anchorYUnits: "fraction",
-        src: `data:image/svg+xml;utf8,${pinSVG(organisation[0].toUpperCase())}`,
+        src: `data:image/svg+xml;utf8,${pinSVG(this.organisations[organisationKey].name[0])}`,
         imageSize: 24,
       });
 
@@ -89,16 +96,14 @@ export default {
       });
 
       const points = [];
-      for (const organisation in this.mapData) {
-        for (const location of this.mapData[organisation]) {
-          if (!(location.lon && location.lat)) continue;
-          const point = new Feature({
-            geometry: new Point(fromLonLat([location.lon, location.lat])),
-            ...location,
-          });
-          point.setStyle(pinStyle);
-          points.push(point);
-        }
+      for (const location of this.mapData[organisationKey]) {
+        if (!(location.lon && location.lat)) continue;
+        const point = new Feature({
+          geometry: new Point(fromLonLat([location.lon, location.lat])),
+          ...location,
+        });
+        point.setStyle(pinStyle);
+        points.push(point);
       }
 
       const vectorLayer = new VectorLayer({
