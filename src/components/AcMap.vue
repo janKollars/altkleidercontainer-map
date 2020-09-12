@@ -150,7 +150,7 @@ export default {
 
 <style>
 .ac-map {
-  height: 100vh;
+  height: 100%;
 }
 
 .ac-map__popup {
@@ -163,6 +163,7 @@ export default {
   border-radius: 5px;
   filter: drop-shadow(0 5px 10px black);
   margin-bottom: 10px;
+  text-align: center;
 }
 
 .ac-map__popup::after {
