@@ -5,7 +5,7 @@ import pathlib
 current_folder = pathlib.Path(__file__).parent.absolute()
 
 data = []
-with open(f"{current_folder}/caritas_coded.csv", "r", encoding="utf-8") as csv_file:
+with open(f"{current_folder}/organisations_geocoded/caritas_coded.csv", "r", encoding="utf-8") as csv_file:
     csv_reader = csv.DictReader(csv_file, delimiter=";")
     for row in csv_reader:
         def null_if_empty(key):
@@ -17,5 +17,5 @@ with open(f"{current_folder}/caritas_coded.csv", "r", encoding="utf-8") as csv_f
         row["container"] = int(row["container"])
         data.append(row)
 
-with open(f"{current_folder}/caritas.json", 'w', encoding="utf-8") as json_file:
+with open(f"{current_folder.parent}/public/caritas.json", "w", encoding="utf-8") as json_file:
     json.dump(data, json_file, ensure_ascii=False, indent=2)
