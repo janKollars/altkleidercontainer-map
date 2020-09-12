@@ -2,6 +2,7 @@ import csv
 import requests
 import pathlib
 import glob
+from progressbar import printProgressBar
 
 current_folder = pathlib.Path(__file__).parent.absolute()
 organisation_files = glob.glob(
@@ -17,20 +18,20 @@ for organisation_file in organisation_files:
         for row in csv_reader:
             data.append(row)
 
-    for address in data:
+    print(f"Retrieving coordinates for {organisation_name}")
+    for i, address in enumerate(data):
         def set_coordinates(toAdd):
             address["lon"] = toAdd["lon"]
             address["lat"] = toAdd["lat"]
 
         if not (address["lon"] and address["lat"]):
-            print(f"--- Retrieving {address['street']} ---")
             response = requests.get(
                 f"https://nominatim.openstreetmap.org/search.php?street={address['street']}&city={address['city']}&state={address['state']}&country=Austria&polygon_geojson=1&format=jsonv2"
             )
             response_data = response.json()
 
             if len(response_data) == 0:
-                print("!!! Could not find coordinates")
+                print(f"\n!!! Could not find coordinates of {address['street']}")
 
             for result in response_data:
                 house_found = False
@@ -41,6 +42,8 @@ for organisation_file in organisation_files:
                     break
                 else:
                     set_coordinates(response_data[0])
+
+        printProgressBar(i + 1, len(data), prefix="Progress:", suffix="Complete", length=50)
 
     with open(f"{current_folder}/organisations_geocoded/{organisation_name}_coded.csv", mode="w") as csv_file:
         writer = csv.DictWriter(
