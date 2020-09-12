@@ -1,10 +1,9 @@
 <template>
-  <AcMap :map-data="mapData" />
+  <AcMap :organisations="organisations" />
 </template>
 
 <script>
 import AcMap from "./components/AcMap.vue";
-import caritasData from "../public/caritas.json";
 
 export default {
   name: "App",
@@ -12,10 +11,13 @@ export default {
     AcMap,
   },
   setup() {
+    const organisations = {
+      caritas: {
+        name: "Caritas"
+      }
+    }
     return {
-      mapData: {
-        caritas: caritasData,
-      },
+      organisations
     };
   },
 };
